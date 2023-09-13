@@ -1,0 +1,36 @@
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\bin\Debug\net6.0-windows\Online Resume Viewer.exe
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\bin\Debug\net6.0-windows\Online Resume Viewer.deps.json
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\bin\Debug\net6.0-windows\Online Resume Viewer.runtimeconfig.json
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\bin\Debug\net6.0-windows\Online Resume Viewer.dll
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\bin\Debug\net6.0-windows\Online Resume Viewer.pdb
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\obj\Debug\net6.0-windows\Online Resume Viewer_MarkupCompile.cache
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\obj\Debug\net6.0-windows\Online Resume Viewer_MarkupCompile.lref
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\obj\Debug\net6.0-windows\Online Resume Viewer.g.resources
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\obj\Debug\net6.0-windows\Online Resume Viewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\obj\Debug\net6.0-windows\Online Resume Viewer.AssemblyInfoInputs.cache
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\obj\Debug\net6.0-windows\Online Resume Viewer.AssemblyInfo.cs
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\obj\Debug\net6.0-windows\Online Resume Viewer.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\obj\Debug\net6.0-windows\Online Resume Viewer.dll
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\obj\Debug\net6.0-windows\refint\Online Resume Viewer.dll
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\obj\Debug\net6.0-windows\Online Resume Viewer.pdb
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\obj\Debug\net6.0-windows\Online Resume Viewer.genruntimeconfig.cache
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\obj\Debug\net6.0-windows\ref\Online Resume Viewer.dll
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\obj\Debug\net6.0-windows\Online Resume Viewer.csproj.AssemblyReference.cache
+C:\Users\wesle\source\repos\Online Resume Viewer\Online Resume Viewer\obj\Debug\net6.0-windows\Online Resume Viewer.csproj.CopyComplete
